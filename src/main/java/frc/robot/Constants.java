@@ -22,7 +22,7 @@ public static final double kP1 = 0;
 public static final double kI1 = 0;
 public static final double kD1 = 0;
 
-public static final double kP3 = 0;
+public static final double kP3 = 12;
 public static final double kI3 = 0;
 public static final double kD3 = 0;
 }
